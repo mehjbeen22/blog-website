@@ -40,12 +40,12 @@ const Navbar = () => {
           </Link>
         </ul>
       </div>
-      <div className="flex gap-10 bg-[#3730a3] text-white py-2 px-2">
+      {/* <div className="flex gap-10 bg-[#3730a3] text-white py-2 px-2">
         <p>DRIVERS</p>
         <p>DIAGNOSTICS</p>
         <p>PROUCTS</p>
         <p>MY ACCOUNT</p>
-      </div>
+      </div> */}
     </nav>
   );
 };
